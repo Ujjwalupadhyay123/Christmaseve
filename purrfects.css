@@ -1,0 +1,25 @@
+#content{
+    text-align: center;
+    padding-top:25%;
+   text-shadow: 0px 3px 4px rgba(0,0,0,0.4),
+                0px 8px 13px rgba(0,0,0,0.1),
+                0px 18px 23px rgba(0,0,0,0.1);
+}
+body{
+    background: url(images/iceman.jpg);
+    background-size:cover;
+    background-position:center;
+    font-family:lato;
+    color:white;
+}
+h1{
+    font-size: 5em;
+    font-weight: 800;
+}
+html{
+    height:100%;
+}
+h3{
+
+    font-weight: 600;
+}
